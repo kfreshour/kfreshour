@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kfreshour
-- 👀 I’m interested in data analytics, visualization and journalism.
+- 👀 I’m generally curious. 
 - 🌱 I’m currently learning SQL and Python. 
 
 
